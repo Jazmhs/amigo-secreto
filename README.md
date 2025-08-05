@@ -1,2 +1,19 @@
-# amigo-secreto
-<Imagen amigo secreto="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/7bfd71c2-6587-4697-a4a0-5ec65ce1aefa" />
+# Amigo-secreto
+
+Es te es un proyecto que nos permite ingresar nombres de amigos. Para realizar la actividad del amigo secreto.
+
+#Funcionalidades
+
+-Agregar nombres a una lista
+-Validación de entradas vacias
+-Visualización de la lista
+-Sorteo aleatorio del amigo secreto
+
+#Estructura del proyecto
+
+-index.html
+-style.css
+-app.js
+-assets
+  -amigo-secreto.png
+-README.md  
